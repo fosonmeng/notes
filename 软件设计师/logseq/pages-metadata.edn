@@ -13,9 +13,6 @@
  {:block/name "a",
   :block/created-at 1647603735249,
   :block/updated-at 1647603735249}
- {:block/name "apr 11th, 2022",
-  :block/created-at 1649643841694,
-  :block/updated-at 1649643841694}
  {:block/name "apr 6th, 2022",
   :block/created-at 1649201860702,
   :block/updated-at 1649201860702}
@@ -30,7 +27,7 @@
   :block/updated-at 1647603735250}
  {:block/name "cisc和risc",
   :block/created-at 1647610387340,
-  :block/updated-at 1647610788331}
+  :block/updated-at 1649668336840}
  {:block/name "contents",
   :block/created-at 1647603735250,
   :block/updated-at 1647603735250}
@@ -51,7 +48,7 @@
   :block/updated-at 1647603735249}
  {:block/name "hash函数与信息摘要",
   :block/created-at 1647629238577,
-  :block/updated-at 1647817635178}
+  :block/updated-at 1649748531006}
  {:block/name "in-progress",
   :block/created-at 1647603735250,
   :block/updated-at 1647603735250}
@@ -76,24 +73,33 @@
  {:block/name "linux操作系统",
   :block/created-at 1647632330441,
   :block/updated-at 1647632330441}
+ {:block/name "may 6th, 2022",
+  :block/created-at 1651787548310,
+  :block/updated-at 1651787548310}
+ {:block/name "may 7th, 2022",
+  :block/created-at 1651874204465,
+  :block/updated-at 1651874204465}
+ {:block/name "may 8th, 2022",
+  :block/created-at 1651965053354,
+  :block/updated-at 1651965053354}
  {:block/name "now",
   :block/created-at 1647603735250,
   :block/updated-at 1647603735250}
  {:block/name "pci总线",
   :block/created-at 1647615023188,
-  :block/updated-at 1647615095901}
+  :block/updated-at 1649727524634}
  {:block/name "pv操作",
   :block/created-at 1647644769157,
-  :block/updated-at 1647645181187}
+  :block/updated-at 1651315218296}
  {:block/name "raid",
   :block/created-at 1647613880312,
   :block/updated-at 1647613958339}
  {:block/name "san",
   :block/created-at 1647614004304,
-  :block/updated-at 1647614079040}
+  :block/updated-at 1649679602260}
  {:block/name "spooling技术",
   :block/created-at 1647748587798,
-  :block/updated-at 1648978299640}
+  :block/updated-at 1651498950507}
  {:block/name "sql数据定义",
   :block/created-at 1649126718391,
   :block/updated-at 1649126718391}
@@ -114,7 +120,7 @@
   :block/updated-at 1649136458794}
  {:block/name "ssl协议",
   :block/created-at 1648893664870,
-  :block/updated-at 1648893690169}
+  :block/updated-at 1650794512158}
  {:block/name "tcp",
   :block/created-at 1647819252152,
   :block/updated-at 1647819252152}
@@ -184,15 +190,6 @@
  {:block/name "传统软件的测试策略",
   :block/created-at 1649026414774,
   :block/updated-at 1649026414774}
- {:block/name "传软件工程基础知识",
-  :block/created-at 1649026218681,
-  :block/updated-at 1649026218681}
- {:block/name "传软件工程基础知识/系统测试",
-  :block/created-at 1649026218682,
-  :block/updated-at 1649026218682}
- {:block/name "传软件工程基础知识/系统测试/传统软件的测试策略",
-  :block/created-at 1649026218680,
-  :block/updated-at 1649026697125}
  {:block/name "作业与作业控制",
   :block/created-at 1649023394662,
   :block/updated-at 1649023394662}
@@ -283,6 +280,9 @@
  {:block/name "基本数据模型",
   :block/created-at 1649124267839,
   :block/updated-at 1649124267839}
+ {:block/name "基本概念",
+  :block/created-at 1650781291604,
+  :block/updated-at 1650781291604}
  {:block/name "堆排序",
   :block/created-at 1648966603407,
   :block/updated-at 1648966603407}
@@ -290,11 +290,11 @@
   :block/created-at 1649025142626,
   :block/updated-at 1649025142626}
  {:block/name "处理机基本概念",
-  :block/created-at 1647648128654,
-  :block/updated-at 1647648131128}
+  :block/created-at 1650794643674,
+  :block/updated-at 1650794643674}
  {:block/name "处理机管理",
-  :block/created-at 1647631325548,
-  :block/updated-at 1647646828547}
+  :block/created-at 1651315315011,
+  :block/updated-at 1651315315011}
  {:block/name "外部排序",
   :block/created-at 1648967672825,
   :block/updated-at 1648967672825}
@@ -321,7 +321,7 @@
   :block/updated-at 1648892580303}
  {:block/name "对称加密技术",
   :block/created-at 1647628021139,
-  :block/updated-at 1647628543103}
+  :block/updated-at 1649735862058}
  {:block/name "局域网协议",
   :block/created-at 1649212417757,
   :block/updated-at 1649212417757}
@@ -333,7 +333,7 @@
   :block/updated-at 1648966378312}
  {:block/name "并发技术",
   :block/created-at 1648797125008,
-  :block/updated-at 1648804527266}
+  :block/updated-at 1651055492458}
  {:block/name "并发控制",
   :block/created-at 1647603179208,
   :block/updated-at 1648797138806}
@@ -393,31 +393,31 @@
   :block/updated-at 1648968278956}
  {:block/name "操作系统知识",
   :block/created-at 1647602289548,
-  :block/updated-at 1648772162253}
+  :block/updated-at 1650721761920}
  {:block/name "操作系统知识/作业管理",
   :block/created-at 1648980856633,
-  :block/updated-at 1648981010635}
+  :block/updated-at 1651710454538}
  {:block/name "操作系统知识/作业管理/作业与作业控制",
   :block/created-at 1648981021545,
-  :block/updated-at 1649023588995}
+  :block/updated-at 1651714535658}
  {:block/name "操作系统知识/作业管理/作业调度",
   :block/created-at 1649023612102,
-  :block/updated-at 1649023817210}
+  :block/updated-at 1651716851692}
  {:block/name "操作系统知识/作业管理/用户界面",
   :block/created-at 1649023856062,
-  :block/updated-at 1649023935139}
+  :block/updated-at 1651718493035}
  {:block/name "操作系统知识/处理机管理",
   :block/created-at 1648968960781,
-  :block/updated-at 1648968960781}
+  :block/updated-at 1651315315014}
  {:block/name "操作系统知识/处理机管理/处理机基本概念",
   :block/created-at 1648968983654,
-  :block/updated-at 1648969473612}
+  :block/updated-at 1651313877357}
  {:block/name "操作系统知识/处理机管理/死锁",
   :block/created-at 1648971209949,
-  :block/updated-at 1648971754924}
+  :block/updated-at 1651330979923}
  {:block/name "操作系统知识/处理机管理/管程",
   :block/created-at 1648970419164,
-  :block/updated-at 1648970599086}
+  :block/updated-at 1651321289829}
  {:block/name "操作系统知识/处理机管理/线程",
   :block/created-at 1648971798184,
   :block/updated-at 1648971872335}
@@ -426,82 +426,82 @@
   :block/updated-at 1648969706189}
  {:block/name "操作系统知识/处理机管理/进程调度",
   :block/created-at 1648970632378,
-  :block/updated-at 1648970999577}
+  :block/updated-at 1651326275257}
  {:block/name "操作系统知识/处理机管理/进程间的通信",
   :block/created-at 1648969760500,
-  :block/updated-at 1648970382559}
+  :block/updated-at 1651315600409}
  {:block/name "操作系统知识/存储管理",
   :block/created-at 1648971907299,
-  :block/updated-at 1648971907299}
+  :block/updated-at 1651372803083}
  {:block/name "操作系统知识/存储管理/分段存储管理",
   :block/created-at 1648974410437,
-  :block/updated-at 1648974505217}
+  :block/updated-at 1651390897884}
  {:block/name "操作系统知识/存储管理/分页存储管理",
   :block/created-at 1648973541703,
-  :block/updated-at 1648974316055}
+  :block/updated-at 1651389797714}
  {:block/name "操作系统知识/存储管理/存储基本概念",
   :block/created-at 1648971933371,
-  :block/updated-at 1648972606033}
+  :block/updated-at 1651375256289}
  {:block/name "操作系统知识/存储管理/存储管理方案",
   :block/created-at 1648972646733,
-  :block/updated-at 1648973415912}
+  :block/updated-at 1651387105971}
  {:block/name "操作系统知识/存储管理/段页式存储管理",
   :block/created-at 1648974562457,
-  :block/updated-at 1648974758044}
+  :block/updated-at 1651470423071}
  {:block/name "操作系统知识/存储管理/虚拟存储管理",
   :block/created-at 1648975151764,
-  :block/updated-at 1648975864748}
+  :block/updated-at 1651479596077}
  {:block/name "操作系统知识/操作系统概述",
   :block/created-at 1648968048736,
-  :block/updated-at 1648968048736}
+  :block/updated-at 1650722005475}
  {:block/name "操作系统知识/操作系统概述/操作系统分类及特点",
   :block/created-at 1648968468613,
-  :block/updated-at 1648968757759}
+  :block/updated-at 1650893832018}
  {:block/name "操作系统知识/操作系统概述/操作系统的发展",
   :block/created-at 1648968830607,
-  :block/updated-at 1648968869505}
+  :block/updated-at 1650893949910}
  {:block/name "操作系统知识/操作系统概述/操作系统的基本概念",
   :block/created-at 1648968083731,
-  :block/updated-at 1648968310051}
+  :block/updated-at 1650889493114}
  {:block/name "操作系统知识/文件管理",
   :block/created-at 1648978992667,
-  :block/updated-at 1648978992667}
+  :block/updated-at 1651501957642}
  {:block/name "操作系统知识/文件管理/存取方法和存储空间的管理",
   :block/created-at 1648979755983,
-  :block/updated-at 1648980059616}
+  :block/updated-at 1651706969395}
  {:block/name "操作系统知识/文件管理/文件与文件系统",
   :block/created-at 1648979018516,
-  :block/updated-at 1648979156463}
+  :block/updated-at 1651654619859}
  {:block/name "操作系统知识/文件管理/文件的使用",
   :block/created-at 1648980111391,
-  :block/updated-at 1648980233201}
+  :block/updated-at 1651707343541}
  {:block/name "操作系统知识/文件管理/文件的共享和保护",
   :block/created-at 1648980250931,
-  :block/updated-at 1648980539001}
+  :block/updated-at 1651708986030}
  {:block/name "操作系统知识/文件管理/文件的结构和组织",
   :block/created-at 1648979178178,
-  :block/updated-at 1648979490091}
+  :block/updated-at 1651706574573}
  {:block/name "操作系统知识/文件管理/文件目录",
   :block/created-at 1648979580870,
-  :block/updated-at 1648979737321}
+  :block/updated-at 1651658150473}
  {:block/name "操作系统知识/文件管理/系统的安全与可靠性",
   :block/created-at 1648980648688,
-  :block/updated-at 1648980825731}
+  :block/updated-at 1651710311906}
  {:block/name "操作系统知识/设备管理",
   :block/created-at 1648975995371,
   :block/updated-at 1648976034551}
  {:block/name "操作系统知识/设备管理/io软件",
   :block/created-at 1648977912196,
-  :block/updated-at 1648977961085}
+  :block/updated-at 1651484982812}
  {:block/name "操作系统知识/设备管理/磁盘管理",
   :block/created-at 1648978564608,
-  :block/updated-at 1648978908259}
+  :block/updated-at 1651501623094}
  {:block/name "操作系统知识/设备管理/设备管理概述",
   :block/created-at 1648976077742,
-  :block/updated-at 1648976171684}
+  :block/updated-at 1651483733077}
  {:block/name "操作系统知识/设备管理/设备管理采用的相关缓冲技术",
   :block/created-at 1648978039414,
-  :block/updated-at 1648978366581}
+  :block/updated-at 1651499596505}
  {:block/name "敏捷方法",
   :block/created-at 1649061448682,
   :block/updated-at 1649061448682}
@@ -516,7 +516,7 @@
   :block/updated-at 1648633320916}
  {:block/name "数据库技术基础",
   :block/created-at 1647602264110,
-  :block/updated-at 1647602264110}
+  :block/updated-at 1651132672328}
  {:block/name "数据库技术基础/关系代数",
   :block/created-at 1649117177480,
   :block/updated-at 1649117177480}
@@ -555,13 +555,13 @@
   :block/updated-at 1649129178989}
  {:block/name "数据库技术基础/关系数据库的规范化",
   :block/created-at 1649129228947,
-  :block/updated-at 1649129228947}
+  :block/updated-at 1651132660657}
  {:block/name "数据库技术基础/关系数据库的规范化/函数依赖",
   :block/created-at 1649129236940,
-  :block/updated-at 1649129393777}
+  :block/updated-at 1651131596415}
  {:block/name "数据库技术基础/关系数据库的规范化/模式分解及分解应具有的特性",
   :block/created-at 1649129243111,
-  :block/updated-at 1649129938572}
+  :block/updated-at 1651102437142}
  {:block/name "数据库技术基础/关系数据库的规范化/规范化",
   :block/created-at 1649129239947,
   :block/updated-at 1649129801074}
@@ -582,7 +582,7 @@
   :block/updated-at 1649114191431}
  {:block/name "数据库技术基础/数据库基本概念/数据库管理系统的特征及分类",
   :block/created-at 1649113831104,
-  :block/updated-at 1649114392527}
+  :block/updated-at 1650784025542}
  {:block/name "数据库技术基础/数据库基本概念/数据库系统的体系结构",
   :block/created-at 1649113834991,
   :block/updated-at 1649114707547}
@@ -666,115 +666,115 @@
   :block/updated-at 1649061618308}
  {:block/name "数据结构",
   :block/created-at 1647602036878,
-  :block/updated-at 1647996361308}
+  :block/updated-at 1649975898207}
  {:block/name "数据结构/图",
   :block/created-at 1648955865339,
-  :block/updated-at 1648955909136}
+  :block/updated-at 1650359192373}
  {:block/name "数据结构/图/图的定义与存储",
   :block/created-at 1648955984715,
-  :block/updated-at 1648956806405}
+  :block/updated-at 1651972775006}
  {:block/name "数据结构/图/图的遍历",
   :block/created-at 1648957247479,
-  :block/updated-at 1648957495073}
+  :block/updated-at 1650434571106}
  {:block/name "数据结构/图/拓扑排序和关键路径",
   :block/created-at 1648957918224,
-  :block/updated-at 1648958296678}
+  :block/updated-at 1650609617594}
  {:block/name "数据结构/图/最短路径",
   :block/created-at 1648958393994,
-  :block/updated-at 1648958571304}
+  :block/updated-at 1650614726607}
  {:block/name "数据结构/图/生成树及最小生成树",
   :block/created-at 1648957672278,
-  :block/updated-at 1648957870883}
+  :block/updated-at 1650592326238}
  {:block/name "数据结构/排序",
   :block/created-at 1648961126395,
-  :block/updated-at 1648961182767}
+  :block/updated-at 1650682362669}
  {:block/name "数据结构/排序/内部排序方法小结",
   :block/created-at 1648967204484,
-  :block/updated-at 1648967242752}
+  :block/updated-at 1650717676451}
  {:block/name "数据结构/排序/基数排序",
   :block/created-at 1648967114640,
-  :block/updated-at 1648967147450}
+  :block/updated-at 1650714271490}
  {:block/name "数据结构/排序/堆排序",
   :block/created-at 1648966559575,
-  :block/updated-at 1648966818351}
+  :block/updated-at 1650704032105}
  {:block/name "数据结构/排序/外部排序",
   :block/created-at 1648967540331,
-  :block/updated-at 1648967980191}
+  :block/updated-at 1650720005151}
  {:block/name "数据结构/排序/希尔排序",
   :block/created-at 1648966348426,
-  :block/updated-at 1648966442042}
+  :block/updated-at 1650701276657}
  {:block/name "数据结构/排序/归并排序",
   :block/created-at 1648967015766,
-  :block/updated-at 1648967084903}
+  :block/updated-at 1650704434456}
  {:block/name "数据结构/排序/快速排序",
   :block/created-at 1648966465069,
-  :block/updated-at 1648966497064}
+  :block/updated-at 1650702489937}
  {:block/name "数据结构/排序/排序的基本概念",
   :block/created-at 1648961206945,
-  :block/updated-at 1648961281177}
+  :block/updated-at 1650682505845}
  {:block/name "数据结构/排序/简单排序",
   :block/created-at 1648966039544,
-  :block/updated-at 1649642591088}
+  :block/updated-at 1650700370671}
  {:block/name "数据结构/数组&矩阵&广义表",
   :block/created-at 1648944786396,
-  :block/updated-at 1648944786396}
+  :block/updated-at 1649982846023}
  {:block/name "数据结构/数组&矩阵&广义表/广义表",
   :block/created-at 1648945271245,
-  :block/updated-at 1648945358147}
+  :block/updated-at 1650005900858}
  {:block/name "数据结构/数组&矩阵&广义表/数组",
   :block/created-at 1648944823604,
-  :block/updated-at 1648945038030}
+  :block/updated-at 1649983402804}
  {:block/name "数据结构/数组&矩阵&广义表/矩阵",
   :block/created-at 1648945070165,
-  :block/updated-at 1648945183452}
+  :block/updated-at 1651187665661}
  {:block/name "数据结构/查找",
   :block/created-at 1648958663920,
   :block/updated-at 1648958683450}
  {:block/name "数据结构/查找/动态查找表",
   :block/created-at 1648959637273,
-  :block/updated-at 1648960282430}
+  :block/updated-at 1650634078006}
  {:block/name "数据结构/查找/哈希表",
   :block/created-at 1648960328197,
-  :block/updated-at 1648961042752}
+  :block/updated-at 1650682040665}
  {:block/name "数据结构/查找/查找的基本概念",
   :block/created-at 1648958699216,
-  :block/updated-at 1648959047501}
+  :block/updated-at 1650618290165}
  {:block/name "数据结构/查找/静态查找表的查找方法",
   :block/created-at 1648959166372,
-  :block/updated-at 1648959583727}
+  :block/updated-at 1650624541210}
  {:block/name "数据结构/树",
   :block/created-at 1648945477943,
-  :block/updated-at 1648945548160}
+  :block/updated-at 1650338404243}
  {:block/name "数据结构/树/二叉树的性质与存储结构",
   :block/created-at 1648945724645,
-  :block/updated-at 1648945868524}
+  :block/updated-at 1650086337323}
  {:block/name "数据结构/树/二叉树的遍历",
   :block/created-at 1648954380048,
-  :block/updated-at 1648954512827}
+  :block/updated-at 1650340026241}
  {:block/name "数据结构/树/最优二叉树",
   :block/created-at 1648954894583,
-  :block/updated-at 1648954992249}
+  :block/updated-at 1650356606085}
  {:block/name "数据结构/树/树与二叉树的定义",
   :block/created-at 1648945567956,
   :block/updated-at 1648945685437}
  {:block/name "数据结构/树/树和森林",
   :block/created-at 1648955045953,
-  :block/updated-at 1648955676574}
+  :block/updated-at 1650358446850}
  {:block/name "数据结构/树/线索二叉树",
   :block/created-at 1648954617520,
-  :block/updated-at 1648954836220}
+  :block/updated-at 1650353851857}
  {:block/name "数据结构/线性结构",
   :block/created-at 1648943723327,
   :block/updated-at 1648943790607}
  {:block/name "数据结构/线性结构/串",
   :block/created-at 1648944406672,
-  :block/updated-at 1648944690042}
+  :block/updated-at 1649982485860}
  {:block/name "数据结构/线性结构/栈和队列",
   :block/created-at 1648944175649,
-  :block/updated-at 1648944367052}
+  :block/updated-at 1649981304622}
  {:block/name "数据结构/线性结构/线性表",
   :block/created-at 1648943803984,
-  :block/updated-at 1648944143678}
+  :block/updated-at 1650779569490}
  {:block/name "数据表示",
   :block/created-at 1648946675056,
   :block/updated-at 1648946675056}
@@ -813,10 +813,10 @@
   :block/updated-at 1648958503070}
  {:block/name "有限自动机",
   :block/created-at 1647990317554,
-  :block/updated-at 1647990454343}
+  :block/updated-at 1649927977756}
  {:block/name "查找",
-  :block/created-at 1648003304487,
-  :block/updated-at 1648003304487}
+  :block/created-at 1650634462258,
+  :block/updated-at 1650634462258}
  {:block/name "查找的基本概念",
   :block/created-at 1648958733841,
   :block/updated-at 1648958733841}
@@ -841,15 +841,12 @@
  {:block/name "标准化&软件知识产权/标准化基础知识/标准化组织",
   :block/created-at 1649206133748,
   :block/updated-at 1649207710206}
- {:block/name "标准化&软件知识产权/知识产权基本概念",
-  :block/created-at 1649208539340,
-  :block/updated-at 1649208539340}
  {:block/name "标准化&软件知识产权/知识产权基础知识",
   :block/created-at 1649208531065,
   :block/updated-at 1649208531065}
  {:block/name "标准化&软件知识产权/知识产权基础知识/专利权概述",
   :block/created-at 1649208559617,
-  :block/updated-at 1649212351415}
+  :block/updated-at 1650780584671}
  {:block/name "标准化&软件知识产权/知识产权基础知识/企业知识产权的保护",
   :block/created-at 1649208562677,
   :block/updated-at 1649212387538}
@@ -861,7 +858,7 @@
   :block/updated-at 1649209573776}
  {:block/name "标准化&软件知识产权/知识产权基础知识/计算机软件著作权",
   :block/created-at 1649208553362,
-  :block/updated-at 1649209329163}
+  :block/updated-at 1650791403508}
  {:block/name "标准化基本概念",
   :block/created-at 1649212417759,
   :block/updated-at 1649212417759}
@@ -937,9 +934,12 @@
  {:block/name "用户界面设计问题",
   :block/created-at 1649109870478,
   :block/updated-at 1649109870478}
+ {:block/name "目录",
+  :block/created-at 1649974974043,
+  :block/updated-at 1649974974043}
  {:block/name "直接内存访问(dma)",
   :block/created-at 1647614648785,
-  :block/updated-at 1647614818521}
+  :block/updated-at 1651494996684}
  {:block/name "知识产权基本概念",
   :block/created-at 1649212417755,
   :block/updated-at 1649212417755}
@@ -948,31 +948,34 @@
   :block/updated-at 1648945108803}
  {:block/name "硬盘",
   :block/created-at 1647613050660,
-  :block/updated-at 1647613507138}
+  :block/updated-at 1649678982739}
  {:block/name "磁盘管理",
   :block/created-at 1648978614788,
   :block/updated-at 1648978614788}
+ {:block/name "磁盘调度",
+  :block/created-at 1651499628172,
+  :block/updated-at 1651499628172}
  {:block/name "程序设计语言基础知识",
   :block/created-at 1647601930792,
-  :block/updated-at 1647601930792}
+  :block/updated-at 1649761841577}
  {:block/name "程序设计语言基础知识/程序设计语言概述",
   :block/created-at 1648939723850,
-  :block/updated-at 1648939723850}
+  :block/updated-at 1649758015646}
  {:block/name "程序设计语言基础知识/程序设计语言概述/程序设计语言的基本成分",
   :block/created-at 1648940363478,
-  :block/updated-at 1648940945237}
+  :block/updated-at 1650783130969}
  {:block/name "程序设计语言基础知识/程序设计语言概述/程序设计语言的基本概念",
   :block/created-at 1648939760928,
-  :block/updated-at 1648940333185}
+  :block/updated-at 1649757818069}
  {:block/name "程序设计语言基础知识/语言处理程序基础",
   :block/created-at 1648941039990,
   :block/updated-at 1648941053867}
  {:block/name "程序设计语言基础知识/语言处理程序基础/汇编程序基本原理",
   :block/created-at 1648941093984,
-  :block/updated-at 1648942131117}
+  :block/updated-at 1649767677022}
  {:block/name "程序设计语言基础知识/语言处理程序基础/编译程序基本原理",
   :block/created-at 1648942180984,
-  :block/updated-at 1648943436625}
+  :block/updated-at 1649943920524}
  {:block/name "程序设计语言基础知识/语言处理程序基础/解释程序基本原理",
   :block/created-at 1648943497675,
   :block/updated-at 1648943672886}
@@ -995,8 +998,8 @@
   :block/created-at 1649640353384,
   :block/updated-at 1649640353384}
  {:block/name "算法的表示",
-  :block/created-at 1648425019917,
-  :block/updated-at 1648428745847}
+  :block/created-at 1651194220429,
+  :block/updated-at 1651194220429}
  {:block/name "算法设计",
   :block/created-at 1649109870479,
   :block/updated-at 1649109870479}
@@ -1005,7 +1008,7 @@
   :block/updated-at 1648424888032}
  {:block/name "算法设计与分析/分支限界法",
   :block/created-at 1649113058159,
-  :block/updated-at 1649113162087}
+  :block/updated-at 1651188854070}
  {:block/name "算法设计与分析/分治法",
   :block/created-at 1649110888751,
   :block/updated-at 1649110888751}
@@ -1036,12 +1039,6 @@
  {:block/name "算法设计与分析/回溯法/回溯法的算法框架",
   :block/created-at 1649112534338,
   :block/updated-at 1649112916617}
- {:block/name "算法设计与分析/回溯法回溯法的典型实例",
-  :block/created-at 1649112538188,
-  :block/updated-at 1649112538188}
- {:block/name "算法设计与分析/回溯法回溯法的算法框架",
-  :block/created-at 1649112531253,
-  :block/updated-at 1649112531253}
  {:block/name "算法设计与分析/数据挖掘算法",
   :block/created-at 1649113072519,
   :block/updated-at 1649113586998}
@@ -1128,7 +1125,7 @@
   :block/updated-at 1649061448681}
  {:block/name "索引",
   :block/created-at 1648883184939,
-  :block/updated-at 1649641897124}
+  :block/updated-at 1649974983039}
  {:block/name "线性结构",
   :block/created-at 1648943790604,
   :block/updated-at 1648943790604}
@@ -1197,16 +1194,13 @@
   :block/updated-at 1649059097578}
  {:block/name "结构化开发方法/系统分析与设计概述/系统设计的基本原理",
   :block/created-at 1649057803359,
-  :block/updated-at 1649058587067}
+  :block/updated-at 1651190054792}
  {:block/name "结构化开发方法/结构分析方法",
   :block/created-at 1649059168903,
   :block/updated-at 1649059258857}
  {:block/name "结构化开发方法/结构分析方法/数据字典",
   :block/created-at 1649059289063,
   :block/updated-at 1649061168203}
- {:block/name "结构化开发方法/结构分析方法/数据字典（dd）",
-  :block/created-at 1649059278212,
-  :block/updated-at 1649059278212}
  {:block/name "结构化开发方法/结构分析方法/数据流图",
   :block/created-at 1649059274643,
   :block/updated-at 1649060676949}
@@ -1254,13 +1248,13 @@
   :block/updated-at 1647611568904}
  {:block/name "网络与信息安全基础知识",
   :block/created-at 1647819058752,
-  :block/updated-at 1647819058752}
+  :block/updated-at 1649901379431}
  {:block/name "网络与信息安全基础知识/internet及应用",
   :block/created-at 1649203227564,
   :block/updated-at 1649203227564}
  {:block/name "网络与信息安全基础知识/internet及应用/internet地址",
   :block/created-at 1649203242615,
-  :block/updated-at 1649203624692}
+  :block/updated-at 1650782476131}
  {:block/name "网络与信息安全基础知识/internet及应用/internet服务",
   :block/created-at 1649203247564,
   :block/updated-at 1649204519844}
@@ -1269,7 +1263,7 @@
   :block/updated-at 1649203284938}
  {:block/name "网络与信息安全基础知识/信息安全基础知识",
   :block/created-at 1649204557727,
-  :block/updated-at 1649205029837}
+  :block/updated-at 1650780940142}
  {:block/name "网络与信息安全基础知识/网络互联硬件",
   :block/created-at 1649136302944,
   :block/updated-at 1649136365739}
@@ -1281,19 +1275,13 @@
   :block/updated-at 1649137502544}
  {:block/name "网络与信息安全基础知识/网络互联硬件/网络的设备",
   :block/created-at 1649136310357,
-  :block/updated-at 1649137254239}
+  :block/updated-at 1651053863693}
  {:block/name "网络与信息安全基础知识/网络安全概述",
   :block/created-at 1649204560976,
-  :block/updated-at 1649206050114}
+  :block/updated-at 1650783598751}
  {:block/name "网络与信息安全基础知识/网络概述",
   :block/created-at 1649131711330,
   :block/updated-at 1649131947407}
- {:block/name "网络与信息安全基础知识/网络概述/iso",
-  :block/created-at 1649131733207,
-  :block/updated-at 1649131733207}
- {:block/name "网络与信息安全基础知识/网络概述/iso/osi网络体系结构",
-  :block/created-at 1649131733205,
-  :block/updated-at 1649131733205}
  {:block/name "网络与信息安全基础知识/网络概述/iso_osi网络体系结构",
   :block/created-at 1649131760906,
   :block/updated-at 1649136259100}
@@ -1309,33 +1297,6 @@
  {:block/name "网络与信息安全基础知识/网络的协议与标准",
   :block/created-at 1649137653167,
   :block/updated-at 1649138173790}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/_tcp",
-  :block/created-at 1649137693910,
-  :block/updated-at 1649137693910}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/_tcp/ip协议族_",
-  :block/created-at 1649137693908,
-  :block/updated-at 1649137693908}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp ",
-  :block/created-at 1649138039554,
-  :block/updated-at 1649138039554}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp / ip协议族",
-  :block/created-at 1649138039552,
-  :block/updated-at 1649138039552}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp _slash ip协议族",
-  :block/created-at 1649138030043,
-  :block/updated-at 1649138030043}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp ip协议族",
-  :block/created-at 1649138028152,
-  :block/updated-at 1649138028152}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp&ip协议族",
-  :block/created-at 1649137674467,
-  :block/updated-at 1649137674467}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp(",
-  :block/created-at 1649138057350,
-  :block/updated-at 1649138057350}
- {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp(/)ip协议族",
-  :block/created-at 1649138057347,
-  :block/updated-at 1649138057347}
  {:block/name "网络与信息安全基础知识/网络的协议与标准/tcp_ip协议族",
   :block/created-at 1649137713447,
   :block/updated-at 1649203205101}
@@ -1372,6 +1333,9 @@
  {:block/name "网络的设备",
   :block/created-at 1649138275246,
   :block/updated-at 1649138275246}
+ {:block/name "考试大纲",
+  :block/created-at 1649974983038,
+  :block/updated-at 1649974989253}
  {:block/name "虚拟现实技术(vr)",
   :block/created-at 1647760145905,
   :block/updated-at 1647760145905}
@@ -1410,43 +1374,43 @@
   :block/updated-at 1648892856794}
  {:block/name "计算机系统知识/安全性&可靠性&系统性能评测/加密技术和认证技术",
   :block/created-at 1648893009576,
-  :block/updated-at 1648893731771}
+  :block/updated-at 1649748807451}
  {:block/name "计算机系统知识/安全性&可靠性&系统性能评测/计算机可靠性",
   :block/created-at 1648893772822,
-  :block/updated-at 1648894553716}
+  :block/updated-at 1651115049759}
  {:block/name "计算机系统知识/安全性&可靠性&系统性能评测/计算机安全概述",
   :block/created-at 1648892856793,
-  :block/updated-at 1648892925740}
+  :block/updated-at 1649731034244}
  {:block/name "计算机系统知识/安全性&可靠性&系统性能评测/计算机系统的性能评价",
   :block/created-at 1648894603937,
-  :block/updated-at 1648895244648}
+  :block/updated-at 1649753962590}
  {:block/name "计算机系统知识/计算机体系结构",
   :block/created-at 1648887300529,
   :block/updated-at 1648887525623}
  {:block/name "计算机系统知识/计算机体系结构/存储系统",
   :block/created-at 1648887896913,
-  :block/updated-at 1648891295814}
+  :block/updated-at 1649679256410}
  {:block/name "计算机系统知识/计算机体系结构/总线结构",
   :block/created-at 1648891698923,
-  :block/updated-at 1648892056176}
+  :block/updated-at 1649726537046}
  {:block/name "计算机系统知识/计算机体系结构/计算机体系结构的发展",
   :block/created-at 1648887769073,
-  :block/updated-at 1648890925071}
+  :block/updated-at 1649670927528}
  {:block/name "计算机系统知识/计算机体系结构/输入输出技术",
   :block/created-at 1648888933803,
-  :block/updated-at 1648891666570}
+  :block/updated-at 1649723784856}
  {:block/name "计算机系统知识/计算机系统基础知识",
   :block/created-at 1648883552245,
   :block/updated-at 1648883670314}
  {:block/name "计算机系统知识/计算机系统基础知识/中央处理单元",
   :block/created-at 1648884487511,
-  :block/updated-at 1648890504466}
+  :block/updated-at 1649644936331}
  {:block/name "计算机系统知识/计算机系统基础知识/数据表示",
   :block/created-at 1648886594447,
-  :block/updated-at 1648890649289}
+  :block/updated-at 1649648350885}
  {:block/name "计算机系统知识/计算机系统基础知识/校验码",
   :block/created-at 1648887041282,
-  :block/updated-at 1648890672726}
+  :block/updated-at 1649655487708}
  {:block/name "计算机系统知识/计算机系统基础知识/计算机系统硬件基本组成",
   :block/created-at 1648883757816,
   :block/updated-at 1648886118244}
@@ -1490,14 +1454,14 @@
   :block/created-at 1649109870481,
   :block/updated-at 1649109870481}
  {:block/name "设计类图",
-  :block/created-at 1648632193799,
-  :block/updated-at 1648693171550}
+  :block/created-at 1650794643671,
+  :block/updated-at 1650794643671}
  {:block/name "详细设计",
   :block/created-at 1649061448681,
   :block/updated-at 1649061448681}
  {:block/name "语法分析",
   :block/created-at 1647991424901,
-  :block/updated-at 1647994354059}
+  :block/updated-at 1649940572141}
  {:block/name "请求分页",
   :block/created-at 1647743566657,
   :block/updated-at 1647745051216}
@@ -1521,34 +1485,37 @@
   :block/updated-at 1649024509669}
  {:block/name "软件工程基础知识",
   :block/created-at 1647916069272,
-  :block/updated-at 1647916069272}
+  :block/updated-at 1651718622718}
  {:block/name "软件工程基础知识/系统测试",
   :block/created-at 1649026188254,
   :block/updated-at 1649026188254}
+ {:block/name "软件工程基础知识/系统测试/传统软件的测试策略",
+  :block/created-at 1649026218680,
+  :block/updated-at 1651820397714}
  {:block/name "软件工程基础知识/系统测试/测试web应用",
   :block/created-at 1649026226088,
-  :block/updated-at 1649026870356}
+  :block/updated-at 1651823248930}
  {:block/name "软件工程基础知识/系统测试/测试方法",
   :block/created-at 1649026229303,
-  :block/updated-at 1649027332179}
+  :block/updated-at 1651827369168}
  {:block/name "软件工程基础知识/系统测试/测试面向对象软件",
   :block/created-at 1649026222633,
-  :block/updated-at 1649026780552}
+  :block/updated-at 1651822030540}
  {:block/name "软件工程基础知识/系统测试/系统测试与调试",
   :block/created-at 1649026211661,
-  :block/updated-at 1649026300475}
+  :block/updated-at 1651796821343}
  {:block/name "软件工程基础知识/系统测试/软件调试",
   :block/created-at 1649026233551,
-  :block/updated-at 1649027714510}
+  :block/updated-at 1651830199095}
  {:block/name "软件工程基础知识/系统设计",
   :block/created-at 1649025878241,
-  :block/updated-at 1649025878241}
+  :block/updated-at 1651793403240}
  {:block/name "软件工程基础知识/系统设计/概要设计",
   :block/created-at 1649025900731,
-  :block/updated-at 1649026004051}
+  :block/updated-at 1651794572749}
  {:block/name "软件工程基础知识/系统设计/详细设计",
   :block/created-at 1649025905115,
-  :block/updated-at 1649026106215}
+  :block/updated-at 1651794942320}
  {:block/name "软件工程基础知识/软件工具与软件开发环境",
   :block/created-at 1649032131956,
   :block/updated-at 1649032158653}
@@ -1560,115 +1527,115 @@
   :block/updated-at 1649032302498}
  {:block/name "软件工程基础知识/软件工程概述",
   :block/created-at 1649024103513,
-  :block/updated-at 1649643204209}
+  :block/updated-at 1651719278281}
  {:block/name "软件工程基础知识/软件工程概述/计算机软件",
   :block/created-at 1649024291067,
-  :block/updated-at 1649024350660}
+  :block/updated-at 1651734503722}
  {:block/name "软件工程基础知识/软件工程概述/软件工程基本原理",
   :block/created-at 1649024481492,
-  :block/updated-at 1649024509671}
+  :block/updated-at 1651735641608}
  {:block/name "软件工程基础知识/软件工程概述/软件生存周期",
   :block/created-at 1649024602573,
-  :block/updated-at 1649024649747}
+  :block/updated-at 1651737795812}
  {:block/name "软件工程基础知识/软件工程概述/软件过程",
   :block/created-at 1649024841775,
-  :block/updated-at 1649024900593}
+  :block/updated-at 1651741219245}
  {:block/name "软件工程基础知识/软件度量",
   :block/created-at 1649031312913,
   :block/updated-at 1649031353343}
  {:block/name "软件工程基础知识/软件度量/软件复杂性度量",
   :block/created-at 1649031419518,
-  :block/updated-at 1649032098883}
+  :block/updated-at 1651972576092}
  {:block/name "软件工程基础知识/软件度量/软件度量分类",
   :block/created-at 1649031412219,
-  :block/updated-at 1649031602048}
+  :block/updated-at 1651969688331}
  {:block/name "软件工程基础知识/软件质量",
   :block/created-at 1649030286411,
-  :block/updated-at 1649030286411}
+  :block/updated-at 1651909592379}
  {:block/name "软件工程基础知识/软件质量/软件容错技术",
   :block/created-at 1649030312216,
-  :block/updated-at 1649031167819}
+  :block/updated-at 1651967565587}
  {:block/name "软件工程基础知识/软件质量/软件评审",
   :block/created-at 1649030308566,
-  :block/updated-at 1649031044454}
+  :block/updated-at 1651966077413}
  {:block/name "软件工程基础知识/软件质量/软件质量保证",
   :block/created-at 1649030303685,
-  :block/updated-at 1649030751492}
+  :block/updated-at 1651916299571}
  {:block/name "软件工程基础知识/软件质量/软件质量特性",
   :block/created-at 1649030299754,
-  :block/updated-at 1649030711635}
+  :block/updated-at 1651914866040}
  {:block/name "软件工程基础知识/软件过程模型",
   :block/created-at 1649024989806,
-  :block/updated-at 1649025032608}
+  :block/updated-at 1651741708091}
  {:block/name "软件工程基础知识/软件过程模型/喷泉模型",
   :block/created-at 1649025252972,
-  :block/updated-at 1649025297283}
+  :block/updated-at 1651750496999}
  {:block/name "软件工程基础知识/软件过程模型/基于构件的开发模型",
   :block/created-at 1649025307212,
-  :block/updated-at 1649025339288}
+  :block/updated-at 1651761066018}
  {:block/name "软件工程基础知识/软件过程模型/增量模型",
   :block/created-at 1649025101104,
-  :block/updated-at 1649025142627}
+  :block/updated-at 1651744739356}
  {:block/name "软件工程基础知识/软件过程模型/形式化方法模型",
   :block/created-at 1649025360705,
-  :block/updated-at 1649025383267}
+  :block/updated-at 1651761328967}
  {:block/name "软件工程基础知识/软件过程模型/敏捷方法",
   :block/created-at 1649025451445,
-  :block/updated-at 1649025474267}
+  :block/updated-at 1651764034018}
  {:block/name "软件工程基础知识/软件过程模型/演化模型",
   :block/created-at 1649025164469,
-  :block/updated-at 1649025233496}
+  :block/updated-at 1651750110037}
  {:block/name "软件工程基础知识/软件过程模型/瀑布模型",
   :block/created-at 1649025043497,
-  :block/updated-at 1649025087322}
+  :block/updated-at 1651743881762}
  {:block/name "软件工程基础知识/软件过程模型/统一过程模型",
   :block/created-at 1649025404639,
-  :block/updated-at 1649025426252}
+  :block/updated-at 1651762389579}
  {:block/name "软件工程基础知识/软件项目管理",
   :block/created-at 1649028573323,
-  :block/updated-at 1649028628596}
+  :block/updated-at 1651874411486}
  {:block/name "软件工程基础知识/软件项目管理/软件进度管理",
   :block/created-at 1649028682279,
-  :block/updated-at 1649029341073}
+  :block/updated-at 1651889161868}
  {:block/name "软件工程基础知识/软件项目管理/软件配置管理",
   :block/created-at 1649028691859,
-  :block/updated-at 1649029643444}
+  :block/updated-at 1651893375346}
  {:block/name "软件工程基础知识/软件项目管理/软件项目估算",
   :block/created-at 1649028678638,
-  :block/updated-at 1649029166623}
+  :block/updated-at 1651884102408}
  {:block/name "软件工程基础知识/软件项目管理/软件项目的组织",
   :block/created-at 1649028686819,
-  :block/updated-at 1649029392619}
+  :block/updated-at 1651890487642}
  {:block/name "软件工程基础知识/软件项目管理/软件项目管理涉及的范围",
   :block/created-at 1649028673874,
-  :block/updated-at 1649028937762}
+  :block/updated-at 1651876010058}
  {:block/name "软件工程基础知识/软件项目管理/风险管理",
   :block/created-at 1649028696073,
-  :block/updated-at 1649030145269}
+  :block/updated-at 1651909376011}
  {:block/name "软件工程基础知识/运行和维护知识",
   :block/created-at 1649027929677,
-  :block/updated-at 1649027929677}
+  :block/updated-at 1649901665672}
  {:block/name "软件工程基础知识/运行和维护知识/系统维护概述",
   :block/created-at 1649028040789,
-  :block/updated-at 1649028486161}
+  :block/updated-at 1651839242335}
  {:block/name "软件工程基础知识/运行和维护知识/系统评价",
   :block/created-at 1649028050472,
-  :block/updated-at 1649028298107}
+  :block/updated-at 1651842551159}
  {:block/name "软件工程基础知识/运行和维护知识/系统转换",
   :block/created-at 1649028034282,
-  :block/updated-at 1649028215501}
+  :block/updated-at 1651835847929}
  {:block/name "软件工程基础知识/需求分析",
   :block/created-at 1649025521832,
   :block/updated-at 1649025521832}
  {:block/name "软件工程基础知识/需求分析/软件需求",
   :block/created-at 1649025588765,
-  :block/updated-at 1649025616607}
+  :block/updated-at 1651788439702}
  {:block/name "软件工程基础知识/需求分析/需求分析原则",
   :block/created-at 1649025651460,
-  :block/updated-at 1649025690788}
+  :block/updated-at 1651789104900}
  {:block/name "软件工程基础知识/需求分析/需求工程",
   :block/created-at 1649025757154,
-  :block/updated-at 1649025819719}
+  :block/updated-at 1651792333465}
  {:block/name "软件工程概述",
   :block/created-at 1649643204206,
   :block/updated-at 1649643204206}
@@ -1740,7 +1707,7 @@
   :block/updated-at 1649635158082}
  {:block/name "软件系统分析与设计/面向对象分析与设计/建模交互",
   :block/created-at 1649635161669,
-  :block/updated-at 1649638657181}
+  :block/updated-at 1650782073951}
  {:block/name "软件系统分析与设计/面向对象分析与设计/建模对象状态",
   :block/created-at 1649635161668,
   :block/updated-at 1649638558059}
@@ -1752,7 +1719,7 @@
   :block/updated-at 1649635158475}
  {:block/name "软件系统分析与设计/面向对象分析与设计/设计类图",
   :block/created-at 1649635161666,
-  :block/updated-at 1649635161666}
+  :block/updated-at 1650782088394}
  {:block/name "软件系统分析与设计/面向对象分析与设计/面向对象分析与设计的步骤",
   :block/created-at 1649635158811,
   :block/updated-at 1649635158811}
@@ -1810,6 +1777,9 @@
  {:block/name "进程的控制",
   :block/created-at 1648969700297,
   :block/updated-at 1648969700297}
+ {:block/name "进程管理",
+  :block/created-at 1650894244647,
+  :block/updated-at 1650894244647}
  {:block/name "进程调度",
   :block/created-at 1648970673369,
   :block/updated-at 1648970673369}
@@ -1836,19 +1806,22 @@
   :block/updated-at 1648807969689}
  {:block/name "集群",
   :block/created-at 1647611533029,
-  :block/updated-at 1647611533029}
+  :block/updated-at 1649671212498}
  {:block/name "需求分析原则",
   :block/created-at 1649061448681,
   :block/updated-at 1649061448681}
  {:block/name "需求工程",
   :block/created-at 1649061448680,
   :block/updated-at 1649061448680}
+ {:block/name "需求说明",
+  :block/created-at 1650781310675,
+  :block/updated-at 1650781310675}
  {:block/name "静态查找表的查找方法",
   :block/created-at 1648959245036,
   :block/updated-at 1648959245036}
  {:block/name "非对称加密",
   :block/created-at 1647628208026,
-  :block/updated-at 1647628837722}
+  :block/updated-at 1649737044196}
  {:block/name "面向对象分析",
   :block/created-at 1649109870478,
   :block/updated-at 1649109870478}
@@ -1863,13 +1836,13 @@
   :block/updated-at 1649109870481}
  {:block/name "面向对象技术",
   :block/created-at 1647742327002,
-  :block/updated-at 1648365192241}
+  :block/updated-at 1650781434217}
  {:block/name "面向对象技术/uml",
   :block/created-at 1649064730292,
   :block/updated-at 1649064807972}
  {:block/name "面向对象技术/uml/uml中的图",
   :block/created-at 1649064757687,
-  :block/updated-at 1649065985095}
+  :block/updated-at 1650782752927}
  {:block/name "面向对象技术/uml/事物",
   :block/created-at 1649064744904,
   :block/updated-at 1649065008424}
@@ -1887,7 +1860,7 @@
   :block/updated-at 1649066090972}
  {:block/name "面向对象技术/设计模式/结构型设计模式",
   :block/created-at 1649066082187,
-  :block/updated-at 1649066934106}
+  :block/updated-at 1651107934739}
  {:block/name "面向对象技术/设计模式/行为设计模式",
   :block/created-at 1649066085828,
   :block/updated-at 1649067052014}
@@ -1908,7 +1881,7 @@
   :block/updated-at 1649064008439}
  {:block/name "面向对象技术/面向对象基础/面向对象程序设计",
   :block/created-at 1649063649847,
-  :block/updated-at 1649064559469}
+  :block/updated-at 1650781576733}
  {:block/name "面向对象技术/面向对象基础/面向对象设计",
   :block/created-at 1649063645869,
   :block/updated-at 1649064311067}
