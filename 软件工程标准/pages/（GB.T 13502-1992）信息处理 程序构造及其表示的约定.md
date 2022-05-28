@@ -1,0 +1,2 @@
+- http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75E15D3A7E05397BE0A0AB82A
+-
